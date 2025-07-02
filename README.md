@@ -1,61 +1,48 @@
-<!-- ```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+ <h1 align="center">Hi, I'm Anas Muayadh 👋</h1>
+<p align="center"><strong>🎓 نظم معلومات | 💻 مبرمج | 📍 السنة الثالثة - كلية الحاسوب</strong></p>
 
-``` -->
+---
 
-<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
+### 🧠 نبذة عني
 
-<p align="center"><i>(drawing by me)</i></p>
+- 👨‍💻 طالب نظم معلومات مهتم بتحليل الأنظمة، تطوير الويب، وعلوم البيانات.
+- 🚀 أحب تعلم تقنيات جديدة والعمل على مشاريع مفتوحة المصدر.
+- 🧩 أسعى لدمج الجانب العملي من البرمجة مع التحليل المنهجي للمعلومات.
 
-<br /> <br />
+---
 
+### 🛠️ المهارات التقنية
 
-#### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
+- 💻 **اللغات**: JavaScript | Python | PHP | Java | SQL
+- 🌐 **تطوير الويب**: HTML | CSS | React | Node.js | Laravel
+- 🛢️ **قواعد البيانات**: MySQL | MongoDB
+- 🔧 **أدوات**: Git | GitHub | VS Code | Postman | Figma
 
-<!--START_SECTION:feed-->
-* [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
-* [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
-* [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
-* [Go on Vercel&#39;s Serverless Functions](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;go-serverless-vercel&#x2F;)
-* [How I made a Flutter app to get a video game item (and other stories from this year)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;2023-year-in-review&#x2F;)
-<!--END_SECTION:feed-->
+---
 
-<br />
+### 📌 بعض المشاريع
 
-#### Or check out cool stuff from dev.to!
+- 🎯 [اسم المشروع 1](رابط المشروع): وصف مختصر للمشروع ووظيفته.
+- 📊 [اسم المشروع 2](رابط المشروع): وصف مختصر لمشروع آخر.
+- 🧾 [اسم المشروع 3](رابط المشروع): مشروع يخص دراستك أو مهارة تعلمتها.
 
-<!-- BLOG-POST-LIST:START -->
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-- [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
-<!-- BLOG-POST-LIST:END -->
+---
 
-<br />
+### 📈 إحصائياتي في GitHub
 
-#### My weekly development breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="Anas's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" />
+</p>
 
-<!--START_SECTION:waka-->
+---
 
-```txt
-Vue.js       2 hrs 42 mins   ████████████████████░░░░░   80.48 %
-CSS          19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Bash         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
+### 📬 تواصل معي
 
-<!--END_SECTION:waka-->
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
-<br />
+---
 
-<details><summary>Kewl badges</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=10" />
-</details>
+<p align="center">شكراً لزيارتك لصفحتي! 😊</p>
