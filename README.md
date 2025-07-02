@@ -1,16 +1,61 @@
-## Hi there 👋
+<!-- ```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
-<!--
-**A-nasMoeed/A-nasMoeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` -->
 
-Here are some ideas to get you started:
+<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>(drawing by me)</i></p>
+
+<br /> <br />
+
+
+#### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
+
+<!--START_SECTION:feed-->
+* [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
+* [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
+* [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
+* [Go on Vercel&#39;s Serverless Functions](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;go-serverless-vercel&#x2F;)
+* [How I made a Flutter app to get a video game item (and other stories from this year)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;2023-year-in-review&#x2F;)
+<!--END_SECTION:feed-->
+
+<br />
+
+#### Or check out cool stuff from dev.to!
+
+<!-- BLOG-POST-LIST:START -->
+- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
+- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
+- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
+- [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+#### My weekly development breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+Vue.js       2 hrs 42 mins   ████████████████████░░░░░   80.48 %
+CSS          19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Bash         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
+<!--END_SECTION:waka-->
+
+<br />
+
+<details><summary>Kewl badges</summary>
+<img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=10" />
+</details>
